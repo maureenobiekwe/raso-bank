@@ -19,8 +19,8 @@ This is a read-only bank directory, not a banking or payment service. It does no
 Clone this repository and enter its directory:
 
 ```sh
-git clone https://github.com/maureenobiekwe/raso_bank.git
-cd raso_bank
+git clone https://github.com/maureenobiekwe/raso-bank.git
+cd raso-bank
 ```
 
 Set the server configuration using environment variables or a `.env` file:
@@ -130,5 +130,5 @@ This project is licensed under the GNU General Public License, version 3 or (at 
 
 **Maureen Obiekwe**  
 [GitHub](https://github.com/maureenobiekwe) · [Portfolio](https://maureenobiekwe.com)
-# raso_bank
-# raso_bank
+# raso-bank
+
